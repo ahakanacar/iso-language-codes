@@ -1,0 +1,305 @@
+﻿alpha_2,alpha_3,language_name_english,language_name_native,language_status,is_living_language,direction,generated_locales
+,ace,Achinese,,living,true,ltr,ace-ID
+,ach,Acoli,,living,true,ltr,ach-UG
+,ada,Adangme,,living,true,ltr,ada-GH
+,ady,Adyghe,,living,true,ltr,ady-RU
+,afa,Afro-Asiatic languages,,living,true,ltr,
+,afh,Afrihili,,living,true,ltr,afh-GH
+,ain,Ainu,,living,true,ltr,ain-JP
+,akk,Akkadian,,living,true,ltr,akk-IQ
+,ale,Aleut,,living,true,ltr,ale-US
+,alg,Algonquian languages,,living,true,ltr,
+,alt,Southern Altai,,living,true,ltr,alt-RU
+,ang,"English, Old (ca.450-1100)",,living,true,ltr,ang-GB
+,anp,Angika,,living,true,ltr,anp-IN
+,apa,Apache languages,,living,true,ltr,
+,arc,Official Aramaic (700-300 BCE),,living,true,ltr,arc-IR
+,arn,Mapudungun,,living,true,ltr,arn-CL
+,arp,Arapaho,,living,true,ltr,arp-US
+,art,Artificial languages,,constructed,false,ltr,
+,arw,Arawak,,living,true,ltr,arw-SR
+,ast,Asturian,,living,true,ltr,ast-ES
+,ath,Athapascan languages,,living,true,ltr,
+,aus,Australian languages,,living,true,ltr,
+,awa,Awadhi,,living,true,ltr,awa-IN
+,bad,Banda languages,,living,true,ltr,
+,bai,Bamileke languages,,living,true,ltr,
+,bal,Baluchi,,living,true,ltr,bal-PK
+,ban,Balinese,,living,true,ltr,ban-ID
+,bas,Basa,,living,true,ltr,bas-CM
+,bat,Baltic languages,,living,true,ltr,
+,bej,Beja,,living,true,ltr,bej-SD
+,bem,Bemba,,living,true,ltr,bem-ZM
+,ber,Berber languages,,living,true,ltr,
+,bho,Bhojpuri,,living,true,ltr,bho-IN
+,bih,Bihari languages,,living,true,ltr,
+,bik,Bikol,,living,true,ltr,bik-PH
+,bin,Bini,,living,true,ltr,bin-NG
+,bla,Siksika,,living,true,ltr,bla-CA
+,bnt,Bantu languages,,living,true,ltr,
+,bra,Braj,,living,true,ltr,bra-IN
+,btk,Batak languages,,living,true,ltr,
+,bua,Buriat,,living,true,ltr,bua-RU
+,bug,Buginese,,living,true,ltr,bug-ID
+,byn,Blin,,living,true,ltr,byn-ER
+,cad,Caddo,,living,true,ltr,cad-US
+,cai,Central American Indian languages,,living,true,ltr,
+,car,Galibi Carib,,living,true,ltr,car-VE
+,cau,Caucasian languages,,living,true,ltr,
+,ceb,Cebuano,,living,true,ltr,ceb-PH
+,cel,Celtic languages,,living,true,ltr,
+,chb,Chibcha,,living,true,ltr,chb-CO
+,chg,Chagatai,,living,true,ltr,chg-TM
+,chk,Chuukese,,living,true,ltr,chk-FM
+,chm,Mari,,living,true,ltr,chm-RU
+,chn,Chinook jargon,,living,true,ltr,chn-US
+,cho,Choctaw,,living,true,ltr,cho-US
+,chp,Chipewyan,,living,true,ltr,chp-CA
+,chr,Cherokee,,living,true,ltr,chr-US
+,chy,Cheyenne,,living,true,ltr,chy-US
+,cmc,Chamic languages,,living,true,ltr,
+,cnr,Montenegrin,,living,true,ltr,
+,cop,Coptic,,living,true,ltr,cop-EG
+,cpe,"Creoles and pidgins, English based",,living,true,ltr,
+,cpf,"Creoles and pidgins, French-based",,living,true,ltr,
+,cpp,"Creoles and pidgins, Portuguese-based",,living,true,ltr,
+,crh,Crimean Tatar,,living,true,ltr,crh-UA
+,crp,Creoles and pidgins,,living,true,ltr,
+,csb,Kashubian,,living,true,ltr,csb-PL
+,cus,Cushitic languages,,living,true,ltr,
+,dak,Dakota,,living,true,ltr,dak-US
+,dar,Dargwa,,living,true,ltr,dar-RU
+,day,Land Dayak languages,,living,true,ltr,
+,del,Delaware,,living,true,ltr,del-US
+,den,Slave (Athapascan),,living,true,ltr,den-CA
+,dgr,Tlicho,,living,true,ltr,dgr-CA
+,din,Dinka,,living,true,ltr,din-SS
+,doi,Dogri (macrolanguage),,living,true,ltr,doi-IN
+,dra,Dravidian languages,,living,true,ltr,
+,dsb,Lower Sorbian,,living,true,ltr,dsb-DE
+,dua,Duala,,living,true,ltr,dua-CM
+,dum,"Dutch, Middle (ca.1050-1350)",,living,true,ltr,dum-NL
+,dyu,Dyula,,living,true,ltr,dyu-BF
+,efi,Efik,,living,true,ltr,efi-NG
+,egy,Egyptian (Ancient),,ancient,false,ltr,egy-EG
+,eka,Ekajuk,,living,true,ltr,eka-NG
+,elx,Elamite,,living,true,ltr,
+,enm,"English, Middle (1100-1500)",,living,true,ltr,enm-GB
+,ewo,Ewondo,,living,true,ltr,ewo-CM
+,fan,Fang,,living,true,ltr,fan-GQ
+,fat,Fanti,,living,true,ltr,
+,fil,Filipino,,living,true,ltr,fil-PH
+,fiu,Finno-Ugrian languages,,living,true,ltr,
+,fon,Fon,,living,true,ltr,fon-BJ
+,frm,"French, Middle (ca.1400-1600)",,living,true,ltr,frm-FR
+,fro,"French, Old (842-ca.1400)",,living,true,ltr,fro-FR
+,frr,Northern Frisian,,living,true,ltr,frr-DE
+,frs,Eastern Frisian,,living,true,ltr,frs-DE
+,fur,Friulian,,living,true,ltr,fur-IT
+,gaa,Ga,,living,true,ltr,gaa-GH
+,gay,Gayo,,living,true,ltr,gay-ID
+,gba,Gbaya,,living,true,ltr,gba-CF
+,gem,Germanic languages,,living,true,ltr,
+,gez,Geez,,living,true,ltr,gez-ET
+,gil,Gilbertese,,living,true,ltr,gil-KI
+,gmh,"German, Middle High (ca.1050-1500)",,living,true,ltr,gmh-DE
+,goh,"German, Old High (ca.750-1050)",,living,true,ltr,goh-DE
+,gon,Gondi,,living,true,ltr,gon-IN
+,gor,Gorontalo,,living,true,ltr,gor-ID
+,got,Gothic,,living,true,ltr,got-UA
+,grb,Grebo,,living,true,ltr,grb-LR
+,grc,"Greek, Ancient (to 1453)",,ancient,false,ltr,grc-GR
+,gsw,Swiss German,,living,true,ltr,gsw-CH
+,gwi,Gwich'in,,living,true,ltr,gwi-CA
+,hai,Haida,,living,true,ltr,hai-CA
+,haw,Hawaiian,,living,true,ltr,haw-US
+,hil,Hiligaynon,,living,true,ltr,hil-PH
+,him,Himachali languages,,living,true,ltr,
+,hit,Hittite,,living,true,ltr,hit-TR
+,hmn,Hmong,,living,true,ltr,hmn-CN
+,hsb,Upper Sorbian,,living,true,ltr,hsb-DE
+,hup,Hupa,,living,true,ltr,hup-US
+,iba,Iban,,living,true,ltr,iba-MY
+,ijo,Ijo languages,,living,true,ltr,
+,ilo,Iloko,,living,true,ltr,ilo-PH
+,inc,Indic languages,,living,true,ltr,
+,ine,Indo-European languages,,living,true,ltr,
+,inh,Ingush,,living,true,ltr,inh-RU
+,ira,Iranian languages,,living,true,ltr,
+,iro,Iroquoian languages,,living,true,ltr,
+,jbo,Lojban,,living,true,ltr,jbo-001
+,jpr,Judeo-Persian,,living,true,ltr,jpr-IL
+,jrb,Judeo-Arabic,,living,true,ltr,jrb-IL
+,kaa,Kara-Kalpak,,living,true,ltr,kaa-UZ
+,kab,Kabyle,,living,true,ltr,kab-DZ
+,kac,Kachin,,living,true,ltr,kac-MM
+,kam,Kamba,,living,true,ltr,kam-KE
+,kar,Karen languages,,living,true,ltr,
+,kaw,Kawi,,living,true,ltr,kaw-ID
+,kbd,Kabardian,,living,true,ltr,kbd-RU
+,kha,Khasi,,living,true,ltr,kha-IN
+,khi,Khoisan languages,,living,true,ltr,
+,kho,Khotanese,,living,true,ltr,kho-IR
+,kmb,Kimbundu,,living,true,ltr,kmb-AO
+,kok,Konkani (macrolanguage),,living,true,ltr,kok-IN
+,kos,Kosraean,,living,true,ltr,kos-FM
+,kpe,Kpelle,,living,true,ltr,kpe-LR
+,krc,Karachay-Balkar,,living,true,ltr,krc-RU
+,krl,Karelian,,living,true,ltr,krl-RU
+,kro,Kru languages,,living,true,ltr,kro-LR
+,kru,Kurukh,,living,true,ltr,kru-IN
+,kum,Kumyk,,living,true,ltr,kum-RU
+,kut,Kutenai,,living,true,ltr,kut-CA
+,lad,Ladino,,living,true,ltr,lad-IL
+,lah,Lahnda,,living,true,ltr,lah-PK
+,lam,Lamba,,living,true,ltr,lam-ZM
+,lez,Lezghian,,living,true,ltr,lez-RU
+,lol,Mongo,,living,true,ltr,lol-CD
+,loz,Lozi,,living,true,ltr,loz-ZM
+,lua,Luba-Lulua,,living,true,ltr,lua-CD
+,lui,Luiseño,,living,true,ltr,lui-US
+,lun,Lunda,,living,true,ltr,lun-ZM
+,luo,Luo (Kenya and Tanzania),,living,true,ltr,luo-KE
+,lus,Lushai,,living,true,ltr,lus-IN
+,mad,Madurese,,living,true,ltr,mad-ID
+,mag,Magahi,,living,true,ltr,mag-IN
+,mai,Maithili,,living,true,ltr,mai-IN
+,mak,Makasar,,living,true,ltr,mak-ID
+,man,Mandingo,,living,true,ltr,man-GM
+,map,Austronesian languages,,living,true,ltr,
+,mas,Masai,,living,true,ltr,mas-KE
+,mdf,Moksha,,living,true,ltr,mdf-RU
+,mdr,Mandar,,living,true,ltr,mdr-ID
+,men,Mende,,living,true,ltr,men-SL
+,mga,"Irish, Middle (900-1200)",,living,true,ltr,mga-IE
+,mic,Mi'kmaq,,living,true,ltr,mic-CA
+,min,Minangkabau,,living,true,ltr,min-ID
+,mis,Uncoded languages,,living,true,ltr,
+,mkh,Mon-Khmer languages,,living,true,ltr,
+,mnc,Manchu,,living,true,ltr,mnc-CN
+,mni,Manipuri,,living,true,ltr,mni-IN
+,mno,Manobo languages,,living,true,ltr,
+,moh,Mohawk,,living,true,ltr,moh-CA
+,mos,Mossi,,living,true,ltr,mos-BF
+,mul,Multiple languages,,living,true,ltr,
+,mun,Munda languages,,living,true,ltr,
+,mus,Creek,,living,true,ltr,mus-US
+,mwl,Mirandese,,living,true,ltr,mwl-PT
+,mwr,Marwari,,living,true,ltr,mwr-IN
+,myn,Mayan languages,,living,true,ltr,
+,myv,Erzya,,living,true,ltr,myv-RU
+,nah,Nahuatl languages,,living,true,ltr,
+,nai,North American Indian languages,,living,true,ltr,
+,nap,Neapolitan,,living,true,ltr,nap-IT
+,nds,Low German,,living,true,ltr,nds-DE
+,new,Nepal Bhasa,,living,true,ltr,new-NP
+,nia,Nias,,living,true,ltr,nia-ID
+,nic,Niger-Kordofanian languages,,living,true,ltr,
+,niu,Niuean,,living,true,ltr,niu-NU
+,nog,Nogai,,living,true,ltr,nog-RU
+,non,"Norse, Old",,living,true,ltr,non-SE
+,nqo,N'Ko,,living,true,ltr,nqo-GN
+,nso,Pedi,,living,true,ltr,nso-ZA
+,nub,Nubian languages,,living,true,ltr,
+,nwc,Classical Newari,,living,true,ltr,nwc-NP
+,nym,Nyamwezi,,living,true,ltr,nym-TZ
+,nyn,Nyankole,,living,true,ltr,nyn-UG
+,nyo,Nyoro,,living,true,ltr,nyo-UG
+,nzi,Nzima,,living,true,ltr,nzi-GH
+,osa,Osage,,living,true,ltr,osa-US
+,ota,"Turkish, Ottoman (1500-1928)",,living,true,ltr,ota-TR
+,oto,Otomian languages,,living,true,ltr,
+,paa,Papuan languages,,living,true,ltr,
+,pag,Pangasinan,,living,true,ltr,pag-PH
+,pal,Pahlavi,,living,true,ltr,pal-IR
+,pam,Pampanga,,living,true,ltr,pam-PH
+,pap,Papiamento,,living,true,ltr,pap-CW
+,pau,Palauan,,living,true,ltr,pau-PW
+,peo,"Persian, Old (ca.600-400 B.C.)",,living,true,ltr,peo-IR
+,phi,Philippine languages,,living,true,ltr,
+,phn,Phoenician,,living,true,ltr,phn-LB
+,pon,Pohnpeian,,living,true,ltr,pon-FM
+,pra,Prakrit languages,,living,true,ltr,
+,pro,"Provençal, Old (to 1500)",,living,true,ltr,pro-FR
+,qaa,Reserved for local use,,living,true,ltr,
+,raj,Rajasthani,,living,true,ltr,raj-IN
+,rap,Rapanui,,living,true,ltr,rap-CL
+,rar,Rarotongan,,living,true,ltr,rar-CK
+,roa,Romance languages,,living,true,ltr,
+,rom,Romany,,living,true,ltr,rom-RO
+,rup,Aromanian,,living,true,ltr,rup-RO
+,sad,Sandawe,,living,true,ltr,sad-TZ
+,sah,Yakut,,living,true,ltr,sah-RU
+,sai,South American Indian languages,,living,true,ltr,
+,sal,Salishan languages,,living,true,ltr,
+,sam,Samaritan Aramaic,,living,true,ltr,sam-PS
+,sas,Sasak,,living,true,ltr,sas-ID
+,sat,Santali,,living,true,ltr,sat-IN
+,scn,Sicilian,,living,true,ltr,scn-IT
+,sco,Scots,,living,true,ltr,sco-GB
+,sel,Selkup,,living,true,ltr,sel-RU
+,sem,Semitic languages,,living,true,ltr,
+,sga,"Irish, Old (to 900)",,living,true,ltr,sga-IE
+,sgn,Sign Languages,,living,true,ltr,
+,shn,Shan,,living,true,ltr,shn-MM
+,sid,Sidamo,,living,true,ltr,sid-ET
+,sio,Siouan languages,,living,true,ltr,
+,sit,Sino-Tibetan languages,,living,true,ltr,
+,sla,Slavic languages,,living,true,ltr,
+,sma,Southern Sami,,living,true,ltr,sma-SE
+,smi,Sami languages,,living,true,ltr,
+,smj,Lule Sami,,living,true,ltr,smj-SE
+,smn,Inari Sami,,living,true,ltr,smn-FI
+,sms,Skolt Sami,,living,true,ltr,sms-FI
+,snk,Soninke,,living,true,ltr,snk-ML
+,sog,Sogdian,,living,true,ltr,sog-UZ
+,son,Songhai languages,,living,true,ltr,
+,srn,Sranan Tongo,,living,true,ltr,srn-SR
+,srr,Serer,,living,true,ltr,srr-SN
+,ssa,Nilo-Saharan languages,,living,true,ltr,
+,suk,Sukuma,,living,true,ltr,suk-TZ
+,sus,Susu,,living,true,ltr,sus-GN
+,sux,Sumerian,,living,true,ltr,
+,syc,Classical Syriac,,living,true,ltr,syc-TR
+,syr,Syriac,,living,true,ltr,syr-IQ
+,tai,Tai languages,,living,true,ltr,
+,tem,Timne,,living,true,ltr,tem-SL
+,ter,Tereno,,living,true,ltr,ter-BR
+,tet,Tetum,,living,true,ltr,tet-TL
+,tig,Tigre,,living,true,ltr,tig-ER
+,tiv,Tiv,,living,true,ltr,tiv-NG
+,tkl,Tokelau,,living,true,ltr,tkl-TK
+,tlh,Klingon,,living,true,ltr,
+,tli,Tlingit,,living,true,ltr,tli-US
+,tmh,Tamashek,,living,true,ltr,tmh-NE
+,tog,Tonga (Nyasa),,living,true,ltr,tog-MW
+,tpi,Tok Pisin,,living,true,ltr,tpi-PG
+,tsi,Tsimshian,,living,true,ltr,tsi-CA
+,tum,Tumbuka,,living,true,ltr,tum-MW
+,tup,Tupi languages,,living,true,ltr,
+,tut,Altaic languages,,living,true,ltr,
+,tvl,Tuvalu,,living,true,ltr,tvl-TV
+,tyv,Tuvinian,,living,true,ltr,tyv-RU
+,udm,Udmurt,,living,true,ltr,udm-RU
+,uga,Ugaritic,,living,true,ltr,uga-SY
+,umb,Umbundu,,living,true,ltr,umb-AO
+,und,Undetermined,,living,true,ltr,en-US
+,vai,Vai,,living,true,ltr,vai-LR
+,vot,Votic,,living,true,ltr,vot-RU
+,wak,Wakashan languages,,living,true,ltr,
+,wal,Wolaitta,,living,true,ltr,wal-ET
+,war,Waray,,living,true,ltr,war-PH
+,was,Washo,,living,true,ltr,was-US
+,wen,Sorbian languages,,living,true,ltr,
+,xal,Kalmyk,,living,true,ltr,xal-RU
+,yao,Yao,,living,true,ltr,yao-MZ
+,yap,Yapese,,living,true,ltr,yap-FM
+,ypk,Yupik languages,,living,true,ltr,
+,zap,Zapotec,,living,true,ltr,zap-MX
+,zbl,Blissymbols,,living,true,ltr,
+,zen,Zenaga,,living,true,ltr,zen-MR
+,zgh,Standard Moroccan Tamazight,,living,true,ltr,zgh-MA
+,znd,Zande languages,,living,true,ltr,
+,zun,Zuni,,living,true,ltr,zun-US
+,zxx,No linguistic content,,living,true,ltr,
+,zza,Zaza,,living,true,ltr,zza-TR

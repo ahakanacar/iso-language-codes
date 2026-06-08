@@ -1,0 +1,5020 @@
+[
+  {
+    "alpha_2": null,
+    "alpha_3": "ace",
+    "language_name_english": "Achinese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ace-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ach",
+    "language_name_english": "Acoli",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ach-UG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ada",
+    "language_name_english": "Adangme",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ada-GH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ady",
+    "language_name_english": "Adyghe",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ady-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "afa",
+    "language_name_english": "Afro-Asiatic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "afh",
+    "language_name_english": "Afrihili",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "afh-GH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ain",
+    "language_name_english": "Ainu",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ain-JP"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "akk",
+    "language_name_english": "Akkadian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "akk-IQ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ale",
+    "language_name_english": "Aleut",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ale-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "alg",
+    "language_name_english": "Algonquian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "alt",
+    "language_name_english": "Southern Altai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "alt-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ang",
+    "language_name_english": "English, Old (ca.450-1100)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ang-GB"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "anp",
+    "language_name_english": "Angika",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "anp-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "apa",
+    "language_name_english": "Apache languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "arc",
+    "language_name_english": "Official Aramaic (700-300 BCE)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "arc-IR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "arn",
+    "language_name_english": "Mapudungun",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "arn-CL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "arp",
+    "language_name_english": "Arapaho",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "arp-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "art",
+    "language_name_english": "Artificial languages",
+    "language_name_native": null,
+    "language_status": "constructed",
+    "is_living_language": false,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "arw",
+    "language_name_english": "Arawak",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "arw-SR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ast",
+    "language_name_english": "Asturian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ast-ES"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ath",
+    "language_name_english": "Athapascan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "aus",
+    "language_name_english": "Australian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "awa",
+    "language_name_english": "Awadhi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "awa-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bad",
+    "language_name_english": "Banda languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bai",
+    "language_name_english": "Bamileke languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bal",
+    "language_name_english": "Baluchi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bal-PK"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ban",
+    "language_name_english": "Balinese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ban-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bas",
+    "language_name_english": "Basa",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bas-CM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bat",
+    "language_name_english": "Baltic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bej",
+    "language_name_english": "Beja",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bej-SD"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bem",
+    "language_name_english": "Bemba",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bem-ZM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ber",
+    "language_name_english": "Berber languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bho",
+    "language_name_english": "Bhojpuri",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bho-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bih",
+    "language_name_english": "Bihari languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bik",
+    "language_name_english": "Bikol",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bik-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bin",
+    "language_name_english": "Bini",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bin-NG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bla",
+    "language_name_english": "Siksika",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bla-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bnt",
+    "language_name_english": "Bantu languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bra",
+    "language_name_english": "Braj",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bra-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "btk",
+    "language_name_english": "Batak languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bua",
+    "language_name_english": "Buriat",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bua-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "bug",
+    "language_name_english": "Buginese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "bug-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "byn",
+    "language_name_english": "Blin",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "byn-ER"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cad",
+    "language_name_english": "Caddo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "cad-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cai",
+    "language_name_english": "Central American Indian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "car",
+    "language_name_english": "Galibi Carib",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "car-VE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cau",
+    "language_name_english": "Caucasian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ceb",
+    "language_name_english": "Cebuano",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ceb-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cel",
+    "language_name_english": "Celtic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chb",
+    "language_name_english": "Chibcha",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chb-CO"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chg",
+    "language_name_english": "Chagatai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chg-TM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chk",
+    "language_name_english": "Chuukese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chk-FM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chm",
+    "language_name_english": "Mari",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chm-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chn",
+    "language_name_english": "Chinook jargon",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chn-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cho",
+    "language_name_english": "Choctaw",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "cho-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chp",
+    "language_name_english": "Chipewyan",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chp-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chr",
+    "language_name_english": "Cherokee",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chr-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "chy",
+    "language_name_english": "Cheyenne",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "chy-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cmc",
+    "language_name_english": "Chamic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cnr",
+    "language_name_english": "Montenegrin",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cop",
+    "language_name_english": "Coptic",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "cop-EG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cpe",
+    "language_name_english": "Creoles and pidgins, English based",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cpf",
+    "language_name_english": "Creoles and pidgins, French-based",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cpp",
+    "language_name_english": "Creoles and pidgins, Portuguese-based",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "crh",
+    "language_name_english": "Crimean Tatar",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "crh-UA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "crp",
+    "language_name_english": "Creoles and pidgins",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "csb",
+    "language_name_english": "Kashubian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "csb-PL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "cus",
+    "language_name_english": "Cushitic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dak",
+    "language_name_english": "Dakota",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dak-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dar",
+    "language_name_english": "Dargwa",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dar-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "day",
+    "language_name_english": "Land Dayak languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "del",
+    "language_name_english": "Delaware",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "del-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "den",
+    "language_name_english": "Slave (Athapascan)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "den-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dgr",
+    "language_name_english": "Tlicho",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dgr-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "din",
+    "language_name_english": "Dinka",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "din-SS"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "doi",
+    "language_name_english": "Dogri (macrolanguage)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "doi-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dra",
+    "language_name_english": "Dravidian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dsb",
+    "language_name_english": "Lower Sorbian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dsb-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dua",
+    "language_name_english": "Duala",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dua-CM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dum",
+    "language_name_english": "Dutch, Middle (ca.1050-1350)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dum-NL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "dyu",
+    "language_name_english": "Dyula",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "dyu-BF"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "efi",
+    "language_name_english": "Efik",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "efi-NG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "egy",
+    "language_name_english": "Egyptian (Ancient)",
+    "language_name_native": null,
+    "language_status": "ancient",
+    "is_living_language": false,
+    "direction": "ltr",
+    "generated_locales": [
+      "egy-EG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "eka",
+    "language_name_english": "Ekajuk",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "eka-NG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "elx",
+    "language_name_english": "Elamite",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "enm",
+    "language_name_english": "English, Middle (1100-1500)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "enm-GB"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ewo",
+    "language_name_english": "Ewondo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ewo-CM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fan",
+    "language_name_english": "Fang",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "fan-GQ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fat",
+    "language_name_english": "Fanti",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fil",
+    "language_name_english": "Filipino",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "fil-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fiu",
+    "language_name_english": "Finno-Ugrian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fon",
+    "language_name_english": "Fon",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "fon-BJ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "frm",
+    "language_name_english": "French, Middle (ca.1400-1600)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "frm-FR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fro",
+    "language_name_english": "French, Old (842-ca.1400)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "fro-FR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "frr",
+    "language_name_english": "Northern Frisian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "frr-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "frs",
+    "language_name_english": "Eastern Frisian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "frs-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "fur",
+    "language_name_english": "Friulian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "fur-IT"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gaa",
+    "language_name_english": "Ga",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gaa-GH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gay",
+    "language_name_english": "Gayo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gay-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gba",
+    "language_name_english": "Gbaya",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gba-CF"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gem",
+    "language_name_english": "Germanic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gez",
+    "language_name_english": "Geez",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gez-ET"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gil",
+    "language_name_english": "Gilbertese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gil-KI"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gmh",
+    "language_name_english": "German, Middle High (ca.1050-1500)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gmh-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "goh",
+    "language_name_english": "German, Old High (ca.750-1050)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "goh-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gon",
+    "language_name_english": "Gondi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gon-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gor",
+    "language_name_english": "Gorontalo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gor-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "got",
+    "language_name_english": "Gothic",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "got-UA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "grb",
+    "language_name_english": "Grebo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "grb-LR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "grc",
+    "language_name_english": "Greek, Ancient (to 1453)",
+    "language_name_native": null,
+    "language_status": "ancient",
+    "is_living_language": false,
+    "direction": "ltr",
+    "generated_locales": [
+      "grc-GR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gsw",
+    "language_name_english": "Swiss German",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gsw-CH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "gwi",
+    "language_name_english": "Gwich'in",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "gwi-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "hai",
+    "language_name_english": "Haida",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "hai-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "haw",
+    "language_name_english": "Hawaiian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "haw-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "hil",
+    "language_name_english": "Hiligaynon",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "hil-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "him",
+    "language_name_english": "Himachali languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "hit",
+    "language_name_english": "Hittite",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "hit-TR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "hmn",
+    "language_name_english": "Hmong",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "hmn-CN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "hsb",
+    "language_name_english": "Upper Sorbian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "hsb-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "hup",
+    "language_name_english": "Hupa",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "hup-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "iba",
+    "language_name_english": "Iban",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "iba-MY"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ijo",
+    "language_name_english": "Ijo languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ilo",
+    "language_name_english": "Iloko",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ilo-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "inc",
+    "language_name_english": "Indic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ine",
+    "language_name_english": "Indo-European languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "inh",
+    "language_name_english": "Ingush",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "inh-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ira",
+    "language_name_english": "Iranian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "iro",
+    "language_name_english": "Iroquoian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "jbo",
+    "language_name_english": "Lojban",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "jbo-001"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "jpr",
+    "language_name_english": "Judeo-Persian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "jpr-IL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "jrb",
+    "language_name_english": "Judeo-Arabic",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "jrb-IL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kaa",
+    "language_name_english": "Kara-Kalpak",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kaa-UZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kab",
+    "language_name_english": "Kabyle",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kab-DZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kac",
+    "language_name_english": "Kachin",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kac-MM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kam",
+    "language_name_english": "Kamba",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kam-KE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kar",
+    "language_name_english": "Karen languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kaw",
+    "language_name_english": "Kawi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kaw-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kbd",
+    "language_name_english": "Kabardian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kbd-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kha",
+    "language_name_english": "Khasi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kha-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "khi",
+    "language_name_english": "Khoisan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kho",
+    "language_name_english": "Khotanese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kho-IR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kmb",
+    "language_name_english": "Kimbundu",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kmb-AO"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kok",
+    "language_name_english": "Konkani (macrolanguage)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kok-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kos",
+    "language_name_english": "Kosraean",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kos-FM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kpe",
+    "language_name_english": "Kpelle",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kpe-LR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "krc",
+    "language_name_english": "Karachay-Balkar",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "krc-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "krl",
+    "language_name_english": "Karelian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "krl-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kro",
+    "language_name_english": "Kru languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kro-LR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kru",
+    "language_name_english": "Kurukh",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kru-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kum",
+    "language_name_english": "Kumyk",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kum-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "kut",
+    "language_name_english": "Kutenai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "kut-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lad",
+    "language_name_english": "Ladino",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lad-IL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lah",
+    "language_name_english": "Lahnda",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lah-PK"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lam",
+    "language_name_english": "Lamba",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lam-ZM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lez",
+    "language_name_english": "Lezghian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lez-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lol",
+    "language_name_english": "Mongo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lol-CD"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "loz",
+    "language_name_english": "Lozi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "loz-ZM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lua",
+    "language_name_english": "Luba-Lulua",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lua-CD"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lui",
+    "language_name_english": "Luiseño",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lui-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lun",
+    "language_name_english": "Lunda",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lun-ZM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "luo",
+    "language_name_english": "Luo (Kenya and Tanzania)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "luo-KE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "lus",
+    "language_name_english": "Lushai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "lus-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mad",
+    "language_name_english": "Madurese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mad-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mag",
+    "language_name_english": "Magahi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mag-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mai",
+    "language_name_english": "Maithili",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mai-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mak",
+    "language_name_english": "Makasar",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mak-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "man",
+    "language_name_english": "Mandingo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "man-GM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "map",
+    "language_name_english": "Austronesian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mas",
+    "language_name_english": "Masai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mas-KE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mdf",
+    "language_name_english": "Moksha",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mdf-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mdr",
+    "language_name_english": "Mandar",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mdr-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "men",
+    "language_name_english": "Mende",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "men-SL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mga",
+    "language_name_english": "Irish, Middle (900-1200)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mga-IE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mic",
+    "language_name_english": "Mi'kmaq",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mic-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "min",
+    "language_name_english": "Minangkabau",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "min-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mis",
+    "language_name_english": "Uncoded languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mkh",
+    "language_name_english": "Mon-Khmer languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mnc",
+    "language_name_english": "Manchu",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mnc-CN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mni",
+    "language_name_english": "Manipuri",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mni-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mno",
+    "language_name_english": "Manobo languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "moh",
+    "language_name_english": "Mohawk",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "moh-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mos",
+    "language_name_english": "Mossi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mos-BF"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mul",
+    "language_name_english": "Multiple languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mun",
+    "language_name_english": "Munda languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mus",
+    "language_name_english": "Creek",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mus-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mwl",
+    "language_name_english": "Mirandese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mwl-PT"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "mwr",
+    "language_name_english": "Marwari",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "mwr-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "myn",
+    "language_name_english": "Mayan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "myv",
+    "language_name_english": "Erzya",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "myv-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nah",
+    "language_name_english": "Nahuatl languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nai",
+    "language_name_english": "North American Indian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nap",
+    "language_name_english": "Neapolitan",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nap-IT"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nds",
+    "language_name_english": "Low German",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nds-DE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "new",
+    "language_name_english": "Nepal Bhasa",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "new-NP"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nia",
+    "language_name_english": "Nias",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nia-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nic",
+    "language_name_english": "Niger-Kordofanian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "niu",
+    "language_name_english": "Niuean",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "niu-NU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nog",
+    "language_name_english": "Nogai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nog-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "non",
+    "language_name_english": "Norse, Old",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "non-SE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nqo",
+    "language_name_english": "N'Ko",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nqo-GN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nso",
+    "language_name_english": "Pedi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nso-ZA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nub",
+    "language_name_english": "Nubian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nwc",
+    "language_name_english": "Classical Newari",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nwc-NP"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nym",
+    "language_name_english": "Nyamwezi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nym-TZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nyn",
+    "language_name_english": "Nyankole",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nyn-UG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nyo",
+    "language_name_english": "Nyoro",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nyo-UG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "nzi",
+    "language_name_english": "Nzima",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "nzi-GH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "osa",
+    "language_name_english": "Osage",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "osa-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ota",
+    "language_name_english": "Turkish, Ottoman (1500-1928)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ota-TR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "oto",
+    "language_name_english": "Otomian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "paa",
+    "language_name_english": "Papuan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pag",
+    "language_name_english": "Pangasinan",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pag-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pal",
+    "language_name_english": "Pahlavi",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pal-IR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pam",
+    "language_name_english": "Pampanga",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pam-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pap",
+    "language_name_english": "Papiamento",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pap-CW"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pau",
+    "language_name_english": "Palauan",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pau-PW"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "peo",
+    "language_name_english": "Persian, Old (ca.600-400 B.C.)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "peo-IR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "phi",
+    "language_name_english": "Philippine languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "phn",
+    "language_name_english": "Phoenician",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "phn-LB"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pon",
+    "language_name_english": "Pohnpeian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pon-FM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pra",
+    "language_name_english": "Prakrit languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "pro",
+    "language_name_english": "Provençal, Old (to 1500)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "pro-FR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "qaa",
+    "language_name_english": "Reserved for local use",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "raj",
+    "language_name_english": "Rajasthani",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "raj-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "rap",
+    "language_name_english": "Rapanui",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "rap-CL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "rar",
+    "language_name_english": "Rarotongan",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "rar-CK"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "roa",
+    "language_name_english": "Romance languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "rom",
+    "language_name_english": "Romany",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "rom-RO"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "rup",
+    "language_name_english": "Aromanian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "rup-RO"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sad",
+    "language_name_english": "Sandawe",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sad-TZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sah",
+    "language_name_english": "Yakut",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sah-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sai",
+    "language_name_english": "South American Indian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sal",
+    "language_name_english": "Salishan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sam",
+    "language_name_english": "Samaritan Aramaic",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sam-PS"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sas",
+    "language_name_english": "Sasak",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sas-ID"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sat",
+    "language_name_english": "Santali",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sat-IN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "scn",
+    "language_name_english": "Sicilian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "scn-IT"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sco",
+    "language_name_english": "Scots",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sco-GB"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sel",
+    "language_name_english": "Selkup",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sel-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sem",
+    "language_name_english": "Semitic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sga",
+    "language_name_english": "Irish, Old (to 900)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sga-IE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sgn",
+    "language_name_english": "Sign Languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "shn",
+    "language_name_english": "Shan",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "shn-MM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sid",
+    "language_name_english": "Sidamo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sid-ET"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sio",
+    "language_name_english": "Siouan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sit",
+    "language_name_english": "Sino-Tibetan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sla",
+    "language_name_english": "Slavic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sma",
+    "language_name_english": "Southern Sami",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sma-SE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "smi",
+    "language_name_english": "Sami languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "smj",
+    "language_name_english": "Lule Sami",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "smj-SE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "smn",
+    "language_name_english": "Inari Sami",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "smn-FI"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sms",
+    "language_name_english": "Skolt Sami",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sms-FI"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "snk",
+    "language_name_english": "Soninke",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "snk-ML"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sog",
+    "language_name_english": "Sogdian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sog-UZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "son",
+    "language_name_english": "Songhai languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "srn",
+    "language_name_english": "Sranan Tongo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "srn-SR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "srr",
+    "language_name_english": "Serer",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "srr-SN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ssa",
+    "language_name_english": "Nilo-Saharan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "suk",
+    "language_name_english": "Sukuma",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "suk-TZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sus",
+    "language_name_english": "Susu",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "sus-GN"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "sux",
+    "language_name_english": "Sumerian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "syc",
+    "language_name_english": "Classical Syriac",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "syc-TR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "syr",
+    "language_name_english": "Syriac",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "syr-IQ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tai",
+    "language_name_english": "Tai languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tem",
+    "language_name_english": "Timne",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tem-SL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ter",
+    "language_name_english": "Tereno",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "ter-BR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tet",
+    "language_name_english": "Tetum",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tet-TL"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tig",
+    "language_name_english": "Tigre",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tig-ER"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tiv",
+    "language_name_english": "Tiv",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tiv-NG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tkl",
+    "language_name_english": "Tokelau",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tkl-TK"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tlh",
+    "language_name_english": "Klingon",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tli",
+    "language_name_english": "Tlingit",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tli-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tmh",
+    "language_name_english": "Tamashek",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tmh-NE"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tog",
+    "language_name_english": "Tonga (Nyasa)",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tog-MW"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tpi",
+    "language_name_english": "Tok Pisin",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tpi-PG"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tsi",
+    "language_name_english": "Tsimshian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tsi-CA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tum",
+    "language_name_english": "Tumbuka",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tum-MW"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tup",
+    "language_name_english": "Tupi languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tut",
+    "language_name_english": "Altaic languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tvl",
+    "language_name_english": "Tuvalu",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tvl-TV"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "tyv",
+    "language_name_english": "Tuvinian",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "tyv-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "udm",
+    "language_name_english": "Udmurt",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "udm-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "uga",
+    "language_name_english": "Ugaritic",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "uga-SY"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "umb",
+    "language_name_english": "Umbundu",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "umb-AO"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "und",
+    "language_name_english": "Undetermined",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "en-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "vai",
+    "language_name_english": "Vai",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "vai-LR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "vot",
+    "language_name_english": "Votic",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "vot-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "wak",
+    "language_name_english": "Wakashan languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "wal",
+    "language_name_english": "Wolaitta",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "wal-ET"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "war",
+    "language_name_english": "Waray",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "war-PH"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "was",
+    "language_name_english": "Washo",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "was-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "wen",
+    "language_name_english": "Sorbian languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "xal",
+    "language_name_english": "Kalmyk",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "xal-RU"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "yao",
+    "language_name_english": "Yao",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "yao-MZ"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "yap",
+    "language_name_english": "Yapese",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "yap-FM"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "ypk",
+    "language_name_english": "Yupik languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zap",
+    "language_name_english": "Zapotec",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "zap-MX"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zbl",
+    "language_name_english": "Blissymbols",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zen",
+    "language_name_english": "Zenaga",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "zen-MR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zgh",
+    "language_name_english": "Standard Moroccan Tamazight",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "zgh-MA"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "znd",
+    "language_name_english": "Zande languages",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zun",
+    "language_name_english": "Zuni",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "zun-US"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zxx",
+    "language_name_english": "No linguistic content",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  },
+  {
+    "alpha_2": null,
+    "alpha_3": "zza",
+    "language_name_english": "Zaza",
+    "language_name_native": null,
+    "language_status": "living",
+    "is_living_language": true,
+    "direction": "ltr",
+    "generated_locales": [
+      "zza-TR"
+    ],
+    "meta": {
+      "source": "ISO 639-1 / Library of Congress",
+      "source_version": "2026-Edition",
+      "extracted_at": "2026-06-07"
+    }
+  }
+]
